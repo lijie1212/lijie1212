@@ -11,7 +11,7 @@
 
 ## English
 
-> A college student preparing for an internship, focused on SRE, Linux operations, cloud computing, automation, and AI-powered operations.
+> A college student preparing for an internship, focused on SRE, Linux operations, cloud computing, automation, monitoring, and AI-powered operations.
 
 ---
 
@@ -29,15 +29,11 @@ My goal is to become an operations engineer with solid fundamentals, strong trou
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins)](https://skillicons.dev)
-
-```text
-Linux / Red Hat / Bash / Git / GitHub / Vim / VS Code
-Docker / Kubernetes / OpenShift / OpenStack / Ceph
-Nginx / Go / Python / Java / MySQL / Redis
-Ansible / Prometheus / Grafana / Zabbix / Jenkins
-SRE / DevOps / Automation / AI Ops
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins" />
+  </a>
+</p>
 
 ---
 
@@ -102,18 +98,6 @@ SRE / DevOps / Automation / AI Ops
 
 ---
 
-## 🔥 Motto
-
-> Keep learning. Keep building. Keep troubleshooting.
-
-```text
-Linux | SRE | OpenStack | Kubernetes | OpenShift
-Docker | Ceph | MySQL | Redis | Ansible
-Prometheus | Grafana | Zabbix | AI Ops
-```
-
----
-
 <a id="中文"></a>
 
 ## 中文
@@ -136,15 +120,11 @@ Prometheus | Grafana | Zabbix | AI Ops
 
 ## 🛠️ 技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins)](https://skillicons.dev)
-
-```text
-Linux / Red Hat / Bash / Git / GitHub / Vim / VS Code
-Docker / Kubernetes / OpenShift / OpenStack / Ceph
-Nginx / Go / Python / Java / MySQL / Redis
-Ansible / Prometheus / Grafana / Zabbix / Jenkins
-SRE / DevOps / Automation / AI Ops
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins" />
+  </a>
+</p>
 
 ---
 
@@ -206,15 +186,3 @@ SRE / DevOps / Automation / AI Ops
 
 - Email: 3346351923@qq.com
 - GitHub: [github.com/lijie1212](https://github.com/lijie1212)
-
----
-
-## 🔥 座右铭
-
-> Keep learning. Keep building. Keep troubleshooting.
-
-```text
-Linux | SRE | OpenStack | Kubernetes | OpenShift
-Docker | Ceph | MySQL | Redis | Ansible
-Prometheus | Grafana | Zabbix | AI Ops
-```
