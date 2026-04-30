@@ -196,19 +196,15 @@ tail -f /var/log/messages
 
 ## 📊 GitHub Stats
 
-> 使用时把下面链接中的 `你的GitHub用户名` 改成你自己的 GitHub 用户名。
+![Li Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijie1212&show_icons=true&theme=tokyonight)
 
-![Li Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijie1212&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 Activity Graph
 
-> 使用时把下面链接中的 `你的GitHub用户名` 改成你自己的 GitHub 用户名。
-
-[![Li Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&theme=tokyo-night)](https://github.com/你的GitHub用户名)
+[![Li Jie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lijie1212&theme=tokyo-night)](https://github.com/lijie1212)
 
 ---
 
@@ -216,7 +212,7 @@ tail -f /var/log/messages
 
 - Email: 3346351923@qq.com
 - Location: Hefei, Anhui, China
-- GitHub: `https://github.com/你的GitHub用户名`
+- GitHub: `https://github.com/lijie1212`
 
 ---
 
