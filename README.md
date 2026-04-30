@@ -11,35 +11,50 @@
 
 ## English
 
-> SRE / Operations Engineer learner focused on Linux, Cloud Native, Automation, Go backend development, and AI-powered operations.
+> A college student preparing for an internship, focused on SRE, Linux operations, cloud computing, automation, and AI-powered operations.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Li Jie**, an SRE / Operations Engineer learner.
+I'm **Li Jie**, a college student who is about to start an internship.
 
-I focus on system reliability, infrastructure automation, cloud-native platforms, monitoring, troubleshooting, and backend service development.
+I am currently focusing on **SRE / Operations Engineering**, and I am continuously improving my skills in Linux system administration, cloud platforms, container technologies, automation, monitoring, and troubleshooting.
 
-My goal is to become an engineer who can understand real-world systems, solve production problems, and improve operational efficiency through automation and platform engineering.
+I enjoy learning how real-world systems run, how services are deployed, monitored, and maintained, and how engineers solve problems in production environments.
+
+My goal is to become an operations engineer with solid fundamentals, strong troubleshooting skills, and the ability to improve efficiency through automation and platform-based tools.
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins,html,css,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins)](https://skillicons.dev)
+
+```text
+Linux / Red Hat / Bash / Git / GitHub / Vim / VS Code
+Docker / Kubernetes / OpenShift / OpenStack / Ceph
+Nginx / Go / Python / Java / MySQL / Redis
+Ansible / Prometheus / Grafana / Zabbix / Jenkins
+SRE / DevOps / Automation / AI Ops
+```
 
 ---
 
-## 🚀 Focus
+## 🚀 Focus Areas
 
-```text
-Linux / Networking / Cloud Native / Automation
-OpenStack / Kubernetes / OpenShift / Docker
-Go / Python / Java / MySQL / Redis
-Ansible / Prometheus / Grafana / Jenkins
-SRE / DevOps / AI Ops
-```
+- Linux system administration
+- Network fundamentals and troubleshooting
+- OpenStack cloud platform operations
+- Kubernetes / OpenShift container platform
+- Docker containerized deployment
+- Ceph distributed storage
+- Nginx reverse proxy and service exposure
+- MySQL / Redis basic usage and troubleshooting
+- Ansible automation
+- Prometheus / Grafana / Zabbix monitoring
+- Go-based operations tools
+- AI tools for operations and troubleshooting
 
 ---
 
@@ -54,13 +69,14 @@ SRE / DevOps / AI Ops
 ## 📂 What I Share
 
 - Linux and SRE learning notes
-- Networking and troubleshooting records
+- Network troubleshooting records
 - OpenStack / OpenShift / Kubernetes labs
 - Docker deployment practices
+- Ceph and storage learning notes
 - Ansible automation scripts
 - Go-based operations tools
-- MySQL / Redis learning notes
-- Prometheus and Grafana monitoring practices
+- MySQL / Redis notes
+- Prometheus / Grafana / Zabbix monitoring practices
 - AI Ops and automation projects
 
 ---
@@ -92,8 +108,8 @@ SRE / DevOps / AI Ops
 
 ```text
 Linux | SRE | OpenStack | Kubernetes | OpenShift
-Docker | Go | MySQL | Redis | Ansible
-Prometheus | Grafana | AI Ops
+Docker | Ceph | MySQL | Redis | Ansible
+Prometheus | Grafana | Zabbix | AI Ops
 ```
 
 ---
@@ -102,35 +118,50 @@ Prometheus | Grafana | AI Ops
 
 ## 中文
 
-> SRE / 运维工程师学习者，专注 Linux、云原生、自动化运维、Go 后端开发与 AI 运维场景落地。
+> 一名即将进入实习阶段的大学生，主要学习和实践 SRE 运维、Linux、云计算、自动化运维、监控体系与 AI 运维场景。
 
 ---
 
 ## 👨‍💻 关于我
 
-我是 **李杰**，目前主要学习和实践 **SRE / 运维工程师方向**。
+我是 **李杰**，一名即将进入实习阶段的大学生。
 
-我关注系统可靠性、基础设施自动化、云原生平台、监控告警、故障排查以及后端服务开发。
+我目前主要关注 **SRE / 运维工程师方向**，正在持续学习 Linux 系统管理、云平台运维、容器技术、自动化运维、监控告警以及故障排查等内容。
 
-我的目标是成为一名能够理解真实生产环境、解决实际系统问题，并通过自动化和平台化手段提升运维效率的工程师。
+我对真实生产环境中的系统运行、服务部署、监控维护和问题定位很感兴趣，也希望通过不断实践提升自己的工程能力。
+
+我的目标是成为一名基础扎实、善于排查问题，并能够通过自动化和平台化工具提升运维效率的运维工程师。
 
 ---
 
 ## 🛠️ 技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins,html,css,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,bash,git,github,vim,vscode,docker,kubernetes,openshift,nginx,go,python,java,mysql,redis,ansible,prometheus,grafana,jenkins)](https://skillicons.dev)
+
+```text
+Linux / Red Hat / Bash / Git / GitHub / Vim / VS Code
+Docker / Kubernetes / OpenShift / OpenStack / Ceph
+Nginx / Go / Python / Java / MySQL / Redis
+Ansible / Prometheus / Grafana / Zabbix / Jenkins
+SRE / DevOps / Automation / AI Ops
+```
 
 ---
 
 ## 🚀 关注方向
 
-```text
-Linux / 网络基础 / 云原生 / 自动化运维
-OpenStack / Kubernetes / OpenShift / Docker
-Go / Python / Java / MySQL / Redis
-Ansible / Prometheus / Grafana / Jenkins
-SRE / DevOps / AI Ops
-```
+- Linux 系统管理
+- 网络基础与故障排查
+- OpenStack 云平台运维
+- Kubernetes / OpenShift 容器平台
+- Docker 容器化部署
+- Ceph 分布式存储
+- Nginx 反向代理与服务暴露
+- MySQL / Redis 基础使用与排查
+- Ansible 自动化运维
+- Prometheus / Grafana / Zabbix 监控体系
+- Go 运维工具开发
+- AI 工具辅助运维与故障分析
 
 ---
 
@@ -148,10 +179,11 @@ SRE / DevOps / AI Ops
 - 网络基础与故障排查记录
 - OpenStack / OpenShift / Kubernetes 实验
 - Docker 部署实践
+- Ceph 与存储学习记录
 - Ansible 自动化脚本
 - Go 运维工具开发
 - MySQL / Redis 学习记录
-- Prometheus 与 Grafana 监控实践
+- Prometheus / Grafana / Zabbix 监控实践
 - AI Ops 与自动化项目
 
 ---
@@ -183,6 +215,6 @@ SRE / DevOps / AI Ops
 
 ```text
 Linux | SRE | OpenStack | Kubernetes | OpenShift
-Docker | Go | MySQL | Redis | Ansible
-Prometheus | Grafana | AI Ops
+Docker | Ceph | MySQL | Redis | Ansible
+Prometheus | Grafana | Zabbix | AI Ops
 ```
